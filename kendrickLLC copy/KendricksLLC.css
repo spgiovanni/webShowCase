@@ -1,0 +1,125 @@
+body{
+	
+	background-color: #143893;
+}
+h4,.num{
+	text-decoration: underline;
+}
+.container{
+	background-color: white;
+	width:75%;
+}
+.num{
+	
+	
+	font-size: 40px;
+}
+.info{
+	background-color: red;
+	color:yellow;
+
+}
+.name{
+	font-family: 'New cycle';
+	background-color:white;
+}
+.navbar{
+	font-family: 'New cycle';
+
+}
+nav ul li{
+	padding:5px;
+	font-size:20px;
+	color:white;
+	position:center;
+}
+.main nav{
+	background-color: yellow;
+	width:103%;
+	margin-left:-15px;
+
+
+}
+.row .container .colum1{	
+	/*margin-right:-120px;*/
+	text-decoration: none;
+
+}
+.colum0{
+	height: 600px;
+	background:url(cleaning.jpg)no-repeat center center;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width:100%;
+}
+.main{
+
+}
+
+.reviews{
+	color:red;
+	position: relative;
+	float:right;
+	padding:-10px;
+	text-decoration: none;
+
+}
+.write{
+	color:white;
+	border:solid thin black;
+	background-color: red;
+	position: relative;
+	border-radius: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	float:right;
+}
+.footer{
+	background-color: yellow;
+	height: 50px;
+	width: 75%;
+	margin-left: 162px;
+	font-size: 8px;
+}
+.foot{
+	width:100%;
+	background-color: yellow;
+	height: 50px;
+	padding:10px;
+	font-size: 8px;
+}
+.main{
+	background:url(https://unsplash.com/search/janitoral?photo=MwW-zrkYSIU)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.logo{
+	background: url(http://www.cmyk.com.mt/img.asp?h=380&w=380&n=/filebank/catalogue/safetysigns/tourism/symbols/TGESS292.jpg)no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.header .row h1{
+	position:relative;
+	}
+p{
+	width:150px;
+    height: 100px;
+    color:white;
+    position:relative;
+    right: -300px;
+}
+
+
+
+	
+	
+
+
+
