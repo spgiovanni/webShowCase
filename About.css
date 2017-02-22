@@ -37,6 +37,7 @@ nav ul li{
 	z-index: 2;
 	position: relative;
 	border-radius: 10px;
+	font-family: 'Open Sans', sans-serif;
 }
 #amBanner{
 	z-index: 2;
@@ -48,6 +49,7 @@ nav ul li{
 	padding: 15px;
 	font-size: 18px;
 	text-align: center;
+	font-family: 'Open Sans', sans-serif;
 }
 img{
 	z-index: 2;
